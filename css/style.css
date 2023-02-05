@@ -3566,7 +3566,7 @@ preloader
   display: block;
   position: absolute;
   margin: auto;
-  background-image: url("l2.jpg");
+  background-image: url("../l2.jpg");
   background-size: 100%;
   width: 100px;
   height: 100px;

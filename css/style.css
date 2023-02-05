@@ -3566,7 +3566,7 @@ preloader
   display: block;
   position: absolute;
   margin: auto;
-  background-image: url("../images/l2.jpg");
+  background-image: url("l2.jpg");
   background-size: 100%;
   width: 100px;
   height: 100px;
@@ -3579,16 +3579,16 @@ preloader
 @keyframes loader {
   33% {
     transform: rotate(45deg);
-    background-image: url("../images/l2.jpg");
+    background-image: url("l3.jpg");
     
   }
   66% {
     transform: rotate(90deg);
-    background-image: url("../images/l2.jpg");
+    background-image: url("l1.jpg");
 
   }
   100% {
-    background-image: url("../images/l2.jpg");
+    background-image: url("l2.jpg");
     transform: rotate(135deg);
  
   }

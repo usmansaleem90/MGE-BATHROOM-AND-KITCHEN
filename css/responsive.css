@@ -2,11 +2,11 @@
  * Title:   Kitchen Design - HTML Responsive Template
  * Author:  QTC Media
  */
- .uk-img{
+.uk-img{
   display: none;
   height: 75px;
-  padding: 5px 0;
-  width: 100px;
+  padding: 10px 0;
+  width: 180px;
  }
 @media (max-width: 1219px) {
   .product-list .product-box .kc-product-wrap .thumbnai-product {

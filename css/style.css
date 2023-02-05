@@ -3579,16 +3579,16 @@ preloader
 @keyframes loader {
   33% {
     transform: rotate(45deg);
-    background-image: url("l3.jpg");
+    background-image: url("../l3.jpg");
     
   }
   66% {
     transform: rotate(90deg);
-    background-image: url("L1.jpg");
+    background-image: url("../L1.jpg");
 
   }
   100% {
-    background-image: url("l2.jpg");
+    background-image: url("../l2.jpg");
     transform: rotate(135deg);
  
   }

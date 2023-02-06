@@ -4,9 +4,9 @@
  */
 .uk-img{
   display: none;
-  height: 75px;
+  height: 70px;
   padding: 10px 0;
-  width: 180px;
+  width: 200px;
  }
 @media (max-width: 1219px) {
   .product-list .product-box .kc-product-wrap .thumbnai-product {
